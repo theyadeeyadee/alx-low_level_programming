@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main- Printing with puts 
- * Return: Always 0 (Checked)
+ * main - Printing with puts 
+ * Return: 0
  */
 int main(void)
 {
