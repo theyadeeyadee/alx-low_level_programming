@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - Printing with puts 
- *
+ * main- Printing with puts 
  * Return: Always 0 (Checked)
  */
 int main(void)
