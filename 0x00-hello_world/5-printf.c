@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - prints a text with printf
  *
  * Return: Always 0 (code checked!)
