@@ -6,11 +6,11 @@
  * main - print alphabets
  *
  * Description - using the main function
- * this program prints "Programming is positive, zero, or negative"
+ * this program prints
  * Return: 0
  */
 
-int main(void)
+char main(void)
 {
 	char ch;
 
@@ -18,7 +18,7 @@ int main(void)
 	{
 		putchar(ch);
 	}
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
 
