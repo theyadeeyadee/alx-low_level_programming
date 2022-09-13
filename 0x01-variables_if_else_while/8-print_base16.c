@@ -4,7 +4,7 @@
  * main - print numbers
  *
  * Description - using the main function
- * this program that prints the lowercase alphabet in reverse, followed by a nl
+ * this program that prints all the numbers of base 16 in lowercase, a new line
  * Return: 0
  */
 
@@ -12,7 +12,11 @@ int main(void)
 {
 	char c;
 
-	for (c = 'z'; c >= 'a'; c--)
+	for (c = '0'; c <= '9'; c++)
+	{
+		putchar(c);
+	}
+	for (c = 'a'; c <= 'f'; c++)
 	{
 		putchar(c);
 	}
