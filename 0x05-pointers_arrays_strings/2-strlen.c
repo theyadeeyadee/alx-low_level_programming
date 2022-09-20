@@ -2,7 +2,6 @@
 #include "main.h"
 
 /**
- *
  * _strlen- counts string exccept \0
  *
  * @s: checked
