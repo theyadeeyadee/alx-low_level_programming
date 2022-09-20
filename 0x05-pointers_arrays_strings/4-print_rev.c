@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_rev- prints in reverse
- * 
+ *
  * @s: checked
  *
  * Return: nothing

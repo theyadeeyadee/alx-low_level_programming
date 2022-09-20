@@ -2,7 +2,7 @@
 
 /**
  * _puts- prints out to stdout with new line
- * 
+ *
  * @str: checked
  * Return:nothing
  */
