@@ -2,9 +2,9 @@
 
 /**
  * factorial - returns the factorial of a given number.
- * 
+ *
  * @n: number to factorise.
- * 
+ *
  * Return: factorial of the number.
  */
 

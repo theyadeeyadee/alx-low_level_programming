@@ -2,8 +2,8 @@
 
 /**
  * is_prime - detects if an input number is a prime number.
- * n: input number.
- * a: iterator.
+ * @n: input number.
+ * @a: iterator.
  * Return: 1 if n is prime, o if n is !prime.
  */
 
@@ -21,7 +21,7 @@ int is_prime(unsigned int n, unsigned int a)
 
 /**
  * is_prime_number - detects if an input number is a prime numb.
- * n: input number.
+ * @n: input number.
  * Return: 1 if n is prime, o if n is !prime.
  */
 
